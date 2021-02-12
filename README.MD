@@ -1,7 +1,7 @@
 # Professional Project Portfolio
 
 ## Purpose
-A website that offers fitness training services.
+A website to demonstrate the combination of my web development projects currently completed or in progress. 
 
 ## Built With
 * JavaScript
