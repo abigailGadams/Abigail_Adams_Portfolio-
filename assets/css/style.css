@@ -89,7 +89,7 @@
   
   .hero-banner {
     background: rgb(68, 88, 120);
-    background-image: url("../images/02-hero-bg.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+    background-image: url(../images/02-hero-bg.jpg), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
     background-size: cover;
     background-position: center;
     background-blend-mode: soft-light;
@@ -130,6 +130,11 @@
     flex-wrap: wrap;
     align-items: stretch;
     justify-content: space-between;
+  }
+
+  .about-me {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
   }
   
   .page-section > h2 {
@@ -239,6 +244,10 @@
   
   .corEnergy {
     background-image: url("../images/02-portfolio-4.jpg");
+  }
+
+  .workday-scheduler {
+    background-image: url("../workday-scheduler-demo.gif");
   }
   
   /* end portfolio project images */
